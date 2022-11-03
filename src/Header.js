@@ -6,7 +6,7 @@ function Header() {
     return (
         <header id="main-header" className="header">
             <Link to="/" className="link">
-                <h1>titulo</h1>
+                <h1>Levis</h1>
             </Link>
             <Nav/>
         </header>

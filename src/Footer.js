@@ -10,7 +10,7 @@ const Footer = () => {
                 <a className="footer__link link" href="https://www.twitter.com/">twitter</a>
             </div>
             <div className="footer__column">
-                <p>© 2020 - Todos os direitos reservados</p>
+                <p>© 2022 - Todos los derechos reservados</p>
             </div>
             <div className="footer__column">
                 <Nav/>
