@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  background-color: #a4a19e;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+.container .header__navbar {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 40px;
+  text-shadow: 2px 2px 4px rgb(255, 255, 255);
+}
+.container .header__navbar .header__navlink {
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.cart {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.cart:hover {
+  color: black;
+}
+
+img.logo {
+  width: 200px;
+}/*# sourceMappingURL=Navbar.css.map */

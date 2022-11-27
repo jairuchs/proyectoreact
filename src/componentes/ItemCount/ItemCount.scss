@@ -1,0 +1,26 @@
+.counter{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+} 
+
+.counter_number{
+    display: flex;
+    gap: 5px;
+}
+
+.agregar{
+    background-color: rgb(255 57 184);
+    color:white;
+    padding: 5px;
+    border: none;
+    border-radius: 5%;
+    width: 350px;
+    font-weight: 800;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.agregar:hover{
+    background-color: green;
+
+}
